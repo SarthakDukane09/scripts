@@ -2,11 +2,11 @@
 
 <<info
 this shell script will take periodic backups
+can also be done with CRON
 
 eg. 
 
 ./backup.sh <source>  <destination>
-
 
 
 info
